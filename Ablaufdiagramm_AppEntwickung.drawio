@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="i3OfdMtod_Uz7Zii7gH8">
-    <mxGraphModel dx="2390" dy="1208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2489" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -835,26 +835,117 @@
         <mxCell id="3ktgM-kJzUwjxLvQ-wjL-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Select past walk" vertex="1">
           <mxGeometry height="30" width="120" x="3000" y="520" as="geometry" />
         </mxCell>
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-92" edge="1" parent="1" source="3ktgM-kJzUwjxLvQ-wjL-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="3ktgM-kJzUwjxLvQ-wjL-81" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3ktgM-kJzUwjxLvQ-wjL-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Walk-Details-Screen" vertex="1">
           <mxGeometry height="30" width="120" x="2680" y="575" as="geometry" />
         </mxCell>
         <mxCell id="3ktgM-kJzUwjxLvQ-wjL-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Walk-Details-Screen" vertex="1">
           <mxGeometry height="30" width="120" x="3000" y="575" as="geometry" />
         </mxCell>
-        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-88" edge="1" parent="1" source="3ktgM-kJzUwjxLvQ-wjL-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="3ktgM-kJzUwjxLvQ-wjL-85">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-94" edge="1" parent="1" source="3ktgM-kJzUwjxLvQ-wjL-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="3ktgM-kJzUwjxLvQ-wjL-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2897" y="620" />
+              <mxPoint x="2740" y="620" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-89" edge="1" parent="1" source="3ktgM-kJzUwjxLvQ-wjL-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="3ktgM-kJzUwjxLvQ-wjL-86">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-105" edge="1" parent="1" source="3ktgM-kJzUwjxLvQ-wjL-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="3ktgM-kJzUwjxLvQ-wjL-104">
+          <mxGeometry relative="1" x="-0.0469" as="geometry">
+            <Array as="points">
+              <mxPoint x="2897" y="620" />
+              <mxPoint x="3090" y="620" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3ktgM-kJzUwjxLvQ-wjL-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Manage walk-Screen" vertex="1">
           <mxGeometry height="30" width="120" x="2837" y="575" as="geometry" />
         </mxCell>
-        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-85" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" value="EDIT WALK&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="120" x="2770" y="645" as="geometry" />
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-96" edge="1" parent="1" source="3ktgM-kJzUwjxLvQ-wjL-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="3ktgM-kJzUwjxLvQ-wjL-95">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-86" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" value="CANCEL WALK" vertex="1">
-          <mxGeometry height="30" width="120" x="2910" y="645" as="geometry" />
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-93" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" value="EDIT WALK" vertex="1">
+          <mxGeometry height="30" width="126.5" x="2673.5" y="650.06" as="geometry" />
+        </mxCell>
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-95" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Edit walk-Screen" vertex="1">
+          <mxGeometry height="30" width="120" x="2680" y="705" as="geometry" />
+        </mxCell>
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-103" edge="1" parent="1" source="3ktgM-kJzUwjxLvQ-wjL-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="3ktgM-kJzUwjxLvQ-wjL-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#FFFFFF;strokeColor=#3A5431;" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;Load walk details and participants from Firestore&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="2833.75" y="645.06" as="geometry" />
+        </mxCell>
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-101" edge="1" parent="1" source="3ktgM-kJzUwjxLvQ-wjL-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.451;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="3ktgM-kJzUwjxLvQ-wjL-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-102" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Display walk details and participants list" vertex="1">
+          <mxGeometry height="40" width="120" x="2843.75" y="715" as="geometry" />
+        </mxCell>
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-107" edge="1" parent="1" source="3ktgM-kJzUwjxLvQ-wjL-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="3ktgM-kJzUwjxLvQ-wjL-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-104" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" value="CANCEL WALK" vertex="1">
+          <mxGeometry height="30" width="120" x="3030" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-109" edge="1" parent="1" source="3ktgM-kJzUwjxLvQ-wjL-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="3ktgM-kJzUwjxLvQ-wjL-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-106" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Confirm cancellation" vertex="1">
+          <mxGeometry height="30" width="120" x="3030" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-116" edge="1" parent="1" source="3ktgM-kJzUwjxLvQ-wjL-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="3ktgM-kJzUwjxLvQ-wjL-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-108" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#FFFFFF;strokeColor=#3A5431;" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;Set walk status to cancelled in firebase&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="3020" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-113" edge="1" parent="1" source="3ktgM-kJzUwjxLvQ-wjL-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="3ktgM-kJzUwjxLvQ-wjL-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-110" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Display cancellation confirmation" vertex="1">
+          <mxGeometry height="40" width="120" x="2876.75" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-112" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="My-Walks-Screen" vertex="1">
+          <mxGeometry height="30" width="120" x="2876.75" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-117" edge="1" parent="1" source="3ktgM-kJzUwjxLvQ-wjL-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="3ktgM-kJzUwjxLvQ-wjL-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2940" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-118" connectable="0" parent="3ktgM-kJzUwjxLvQ-wjL-117" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.6154" y="4" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-120" edge="1" parent="1" source="3ktgM-kJzUwjxLvQ-wjL-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="3ktgM-kJzUwjxLvQ-wjL-119">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3150" y="885" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-121" connectable="0" parent="3ktgM-kJzUwjxLvQ-wjL-120" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.2968" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-114" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Cancellation successful?" vertex="1">
+          <mxGeometry height="40" width="120" x="2973.75" y="865" as="geometry" />
+        </mxCell>
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-123" edge="1" parent="1" source="3ktgM-kJzUwjxLvQ-wjL-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="3ktgM-kJzUwjxLvQ-wjL-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-119" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Display error message" vertex="1">
+          <mxGeometry height="40" width="120" x="3093.75" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="3ktgM-kJzUwjxLvQ-wjL-122" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Manage walk-Screen" vertex="1">
+          <mxGeometry height="30" width="120" x="3093.75" y="980" as="geometry" />
         </mxCell>
         <mxCell id="IKPo1Hmv7YiZtDZ1KLJG-8" edge="1" parent="1" source="IKPo1Hmv7YiZtDZ1KLJG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="IKPo1Hmv7YiZtDZ1KLJG-3">
           <mxGeometry relative="1" as="geometry" />
